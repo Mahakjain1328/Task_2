@@ -1,4 +1,4 @@
-Sample Insights
+Business Insights
 1. Women are more likely to buy compared to men (65%).
 2. Maharashtra, karnataka, Uttar Pradesh Telangana and tamilnadu are the top 5.
 3. Adult age group (30-49 yrs) is max contributing (50%).
